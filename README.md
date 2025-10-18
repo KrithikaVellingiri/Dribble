@@ -150,7 +150,7 @@ index.html
 ```
 
 ## OUTPUT:
-![alt text](image.png)
+![alt text](<Screenshot (828).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
